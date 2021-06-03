@@ -4,3 +4,7 @@
 
 ## 人脸库中人脸特征向量保存
 python create_dataset.py
+
+## 下载模型到checkpoints文件夹下
+链接: https://pan.baidu.com/s/1EtzHs6uU5uMWBaEyrsHPyw  
+密码: c0qa
