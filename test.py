@@ -88,13 +88,3 @@ if __name__ == '__main__':
 
     time20 = time.time()
     process(test_image_path1)
-    time21 = time.time()
-    print("线程第一次处理时间：", time21-time20)
-
-    # time22 = time.time()
-    # process(test_image_path2)
-    # time23 = time.time()
-    # print("线程第二次处理时间：", time23 - time22)
-
-    time10 = time.time()
-    print("处理总时间：",time10-time1)
